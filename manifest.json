@@ -1,0 +1,19 @@
+{
+  "name": "Echo Support - One Call, All Solutions",
+  "short_name": "Echo Support",
+  "description": "Professional home services including electrical, plumbing, appliance repair, and property services.",
+  "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#059669",
+    "background_color": "#ffffff",
+    "orientation": "portrait",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "./Images/vishal-profile.jpg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ]
+}
